@@ -1,4 +1,4 @@
-### Hi there 👋
+### printf("Hello :earth_americas:");
 
 <!--
 **veeteeran/veeteeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Foundations year
+I will be completeing the foundations year at Holberton School in Tulsa at the beginning of November 2020. During this time, I have learned bash scripting, C language, Python, HTML/CSS, Flask, MySQL, Javascript, and DevOPs practices. In my second year I will be specializing in Web Development to continue building on the knowledge I have gained and learn new frameworks.
+
+---
+### Explore
+Have a look around :eyes: at the projects I've worked on so far.
