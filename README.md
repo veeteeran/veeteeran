@@ -1,4 +1,4 @@
-### printf("Hello :earth_americas:");
+# Hello :earth_americas:
 
 <!--
 **veeteeran/veeteeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
