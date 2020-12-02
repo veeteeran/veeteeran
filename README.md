@@ -24,8 +24,12 @@ I will be completeing the foundations year at Holberton School in Tulsa at the b
 * Visit my [portfolio](https://veeteeran.github.io/portfolio/)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeteeran&theme=tokyonight)](https://github.com/veeteeran)
-[![Viet's github stats](https://github-readme-stats.vercel.app/api?username=veeteeran&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/veeteeran)
+<a href="https://github.com/veeteeran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeteeran&theme=tokyonight" />
+</a>
+<a href="https://github.com/veeteeran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=veeteeran&show_icons=true&theme=tokyonight&hide=stars,issues" />
+</a>
 
 ---
 ### Explore
