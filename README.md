@@ -18,5 +18,15 @@ Here are some ideas to get you started:
 I will be completeing the foundations year at Holberton School in Tulsa at the beginning of November 2020. During this time, I have learned bash scripting, C language, Python, HTML/CSS, Flask, MySQL, Javascript, and DevOPs practices. In my second year I will be specializing in Web Development to continue building on the knowledge I have gained and learn new frameworks.
 
 ---
+### Find me in the matrix :globe_with_meridians::
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/viet-t/)
+* Follow me on [Twitter](https://twitter.com/veeteeran)
+* Visit my [portfolio](https://veeteeran.github.io/portfolio/)
+
+---
+[![Viet's github stats](https://github-readme-stats.vercel.app/api?username=veeteeran)](https://github.com/veeteeran)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeteeran)](https://github.com/veeteeran)
+
+___
 ### Explore
 Have a look around :eyes: at the projects I've worked on so far.
