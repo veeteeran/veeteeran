@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-I completed the foundations year at [Holberton School](https://www.holbertonschool.com/campus_life/tulsa) in Tulsa at the beginning of November 2020. During this time, I learned how to use git on the command line, bash scripting, programming in C language, Python, HTML/CSS, Flask, MySQL, Javascript, setting up LAMP stacks, and other DevOps practices. In my second year, I will be specializing in Web Development to continue building on the knowledge I have gained. Recently I volunteered for Djangofest with Techlahoma as a coach and hope to continue helping with Techlahoma events and learning more about Django. I have also started looking into the Jamstack and learning a more about React.
+I will be graduating from Holbeton School in September 2021. Currently, part of the web team at [Station8](https://station8branding.com/) in Tulsa where we create beautifully designed web sites to help our clients tell their story and their why. Working with amazing people who are supportive of and accountable to each other like the current team Station8 and my previous one at [The Collab Lab](https://the-collab-lab.codes/who-we-are/) are one of the things that drive me. Time spent AFK is usually climbing on rocks and or plastic. Some weekends my nose is buried in a book and I've been known to talk sportball on occassion.
 
 ---
 ### Find me on the :globe_with_meridians::
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/viet-t/)
-* Follow me on [Twitter](https://twitter.com/veeteeran)
-* Visit my [portfolio](https://veeteeran.github.io/portfolio/)
+Or one of the links to the left.
 
 ---
 <a href="https://github.com/veeteeran">
