@@ -20,7 +20,7 @@ I will be graduating from Holbeton School in September 2021. Currently, part of 
 ---
 ### Find me on the :globe_with_meridians::
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/viet-t/)
-Or one of the links to the left.
+or one of the links to the left. 😄
 
 ---
 <a href="https://github.com/veeteeran">
