@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-I will be graduating from Holbeton School in September 2021. Currently, part of the web team at [Station8](https://station8branding.com/) in Tulsa where we create beautifully designed web sites to help our clients tell their story and their why. Working with amazing people who are supportive of and accountable to each other like the current team Station8 and my previous one at [The Collab Lab](https://the-collab-lab.codes/who-we-are/) are one of the things that drive me. I usually spend my timem away from screens climbing on rocks or plastic. Some weekends my nose is buried in a book and I've been known to talk sportball on occassion.
+I will be graduating from Holbeton School in September 2021. Currently, part of the web team at [Station8](https://station8branding.com/) in Tulsa where we create beautifully designed web sites to help our clients tell their story and their why. Working with amazing people who are supportive of and accountable to each other like the current team Station8 and my previous one at [The Collab Lab](https://the-collab-lab.codes/who-we-are/) are one of the things that drive me. I usually spend my time away from screens climbing on rocks or plastic. Some weekends my nose is buried in a book and I've been known to talk sportball on occassion.
 
 ---
 ### Find me on the :globe_with_meridians::
